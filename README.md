@@ -1,6 +1,4 @@
 # CSC207 Week 1 Lab Activity #1: Fizz Buzz
-
-
 Let's start off our exploration of Java with a classic programming challenge, Fizz Buzz!
 
 But first, let's get you your own copy of this codebase to work with.
@@ -290,7 +288,7 @@ through the readings and coding homework over the next few of weeks.
 
 ### Task 3.3 Push your latest changes
 
-- [ ] Now that you've made some more changes to your repository, you should repeat the add, commit, push process
+- [X] Now that you've made some more changes to your repository, you should repeat the add, commit, push process
 for any files that you have changed if you haven't done so recently. Remember to include a descriptive commit message!
 
 ### Task 3.4 Pulling changes from GitHub
